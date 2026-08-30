@@ -1,0 +1,13 @@
+{
+  "versionCode": 5,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/latest/download/AHSTUSchedule.apk",
+  "sha256": "be924d71bdab2b72925edc3cd68c97504392a1b444e05bb1e6a70a2ffac77200",
+  "publishedAt": "2026-08-31",
+  "changelog": [
+    "新增左上角菜单",
+    "新增版本、更新日志和联系邮箱",
+    "新增手动检查与安全校验更新",
+    "保持启动时不自动联网"
+  ]
+}
