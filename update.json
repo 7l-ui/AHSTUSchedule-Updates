@@ -1,13 +1,12 @@
 {
-  "versionCode": 5,
-  "versionName": "0.3.0",
+  "versionCode": 6,
+  "versionName": "0.3.1",
   "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/latest/download/AHSTUSchedule.apk",
-  "sha256": "be924d71bdab2b72925edc3cd68c97504392a1b444e05bb1e6a70a2ffac77200",
+  "sha256": "046be4292840c7eaebd5e7902ab6c2f8316bd9b59f9fc2bd86019ec3373e6b8b",
   "publishedAt": "2026-08-31",
   "changelog": [
-    "新增左上角菜单",
-    "新增版本、更新日志和联系邮箱",
-    "新增手动检查与安全校验更新",
-    "保持启动时不自动联网"
+    "新增按版本和日期分组的版本公告",
+    "公告只在打开菜单时低频刷新并保留本地缓存",
+    "新增“安科课表”四字应用图标"
   ]
 }
