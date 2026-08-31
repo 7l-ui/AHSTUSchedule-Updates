@@ -2,13 +2,14 @@
   "versionCode": 8,
   "versionName": "0.4.1",
   "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/latest/download/AHSTUSchedule.apk",
-  "sha256": "cdbf895a29ecd5aaca133fe8b41e99d01392dc180d6f5fd3157074e24657bcc5",
+  "sha256": "a5a44ba34e7291b94c130dba037cbafe3f352b29db25ac3f39c67380d6ff9c70",
   "publishedAt": "2026-08-31",
   "changelog": [
     "首次导入可选择学期和第一周，后续更新锁定所选学期",
     "启动默认定位本周，支持快速选周和带动画的左右滑动切周",
     "修正上课时间，并按卡片空间动态调整课程与教室字号",
     "教室号作为整体换行，不再拆分 C205、A304 等编号",
-    "更新失败保留原课表，并修复快速连续滑动后无法切周的问题"
+    "更新失败保留原课表，并修复快速连续滑动后无法切周的问题",
+    "应用内更新下载成功后自动校验并打开系统安装确认页"
   ]
 }
