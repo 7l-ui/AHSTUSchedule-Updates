@@ -1,12 +1,14 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.1",
+  "versionCode": 8,
+  "versionName": "0.4.1",
   "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/latest/download/AHSTUSchedule.apk",
-  "sha256": "046be4292840c7eaebd5e7902ab6c2f8316bd9b59f9fc2bd86019ec3373e6b8b",
+  "sha256": "cdbf895a29ecd5aaca133fe8b41e99d01392dc180d6f5fd3157074e24657bcc5",
   "publishedAt": "2026-08-31",
   "changelog": [
-    "新增按版本和日期分组的版本公告",
-    "公告只在打开菜单时低频刷新并保留本地缓存",
-    "新增“安科课表”四字应用图标"
+    "首次导入可选择学期和第一周，后续更新锁定所选学期",
+    "启动默认定位本周，支持快速选周和带动画的左右滑动切周",
+    "修正上课时间，并按卡片空间动态调整课程与教室字号",
+    "教室号作为整体换行，不再拆分 C205、A304 等编号",
+    "更新失败保留原课表，并修复快速连续滑动后无法切周的问题"
   ]
 }
