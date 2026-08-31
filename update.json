@@ -1,7 +1,7 @@
 {
   "versionCode": 8,
   "versionName": "0.4.1",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/latest/download/AHSTUSchedule.apk",
+  "apkUrl": "https://raw.githubusercontent.com/7l-ui/AHSTUSchedule-Updates/main/test/AHSTUSchedule.apk",
   "sha256": "a5a44ba34e7291b94c130dba037cbafe3f352b29db25ac3f39c67380d6ff9c70",
   "publishedAt": "2026-08-31",
   "changelog": [
