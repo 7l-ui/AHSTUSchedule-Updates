@@ -1,15 +1,15 @@
 {
-  "versionCode": 8,
-  "versionName": "0.4.1",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/latest/download/AHSTUSchedule.apk",
-  "sha256": "a5a44ba34e7291b94c130dba037cbafe3f352b29db25ac3f39c67380d6ff9c70",
-  "publishedAt": "2026-08-31",
+  "versionCode": 9,
+  "versionName": "0.4.2",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.2/AHSTUSchedule.apk",
+  "sha256": "81558b1e5b3f412a8d8dc21e21eea3c75138e78bab0d8d4e60082aeeb1c66107",
+  "publishedAt": "2026-09-09",
   "changelog": [
-    "首次导入可选择学期和第一周，后续更新锁定所选学期",
-    "启动默认定位本周，支持快速选周和带动画的左右滑动切周",
-    "修正上课时间，并按卡片空间动态调整课程与教室字号",
-    "教室号作为整体换行，不再拆分 C205、A304 等编号",
-    "更新失败保留原课表，并修复快速连续滑动后无法切周的问题",
-    "应用内更新下载成功后自动校验并打开系统安装确认页"
+    "全新浅色课表界面：紧凑顶部、柔和课程卡片、清晰文字层次",
+    "顶部操作区固定显示，课表独立滚动，保留七天显示和滑动切周",
+    "长课程优先保留上课地点，点击卡片可查看完整课程、地点、老师和时间",
+    "菜单中的恢复上次课表改为设置第一周，移除周数后的下拉符号",
+    "适配系统状态栏、导航栏和屏幕挖孔，修复 Android 15 顶部内容被遮挡的问题",
+    "覆盖安装保留现有课表与设置，已在小米 Android 15 和 vivo Android 13 上检查显示"
   ]
 }
