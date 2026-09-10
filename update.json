@@ -1,15 +1,15 @@
 {
-  "versionCode": 9,
-  "versionName": "0.4.2",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.2/AHSTUSchedule.apk",
-  "sha256": "81558b1e5b3f412a8d8dc21e21eea3c75138e78bab0d8d4e60082aeeb1c66107",
-  "publishedAt": "2026-09-09",
+  "versionCode": 10,
+  "versionName": "0.4.3",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.3/AHSTUSchedule.apk",
+  "sha256": "5ae897da486adc02855857d21eb6ec8544f9b48170df0f9bc8e2fe5ddb20ea68",
+  "publishedAt": "2026-09-11",
   "changelog": [
-    "全新浅色课表界面：紧凑顶部、柔和课程卡片、清晰文字层次",
-    "顶部操作区固定显示，课表独立滚动，保留七天显示和滑动切周",
-    "长课程优先保留上课地点，点击卡片可查看完整课程、地点、老师和时间",
-    "菜单中的恢复上次课表改为设置第一周，移除周数后的下拉符号",
-    "适配系统状态栏、导航栏和屏幕挖孔，修复 Android 15 顶部内容被遮挡的问题",
-    "覆盖安装保留现有课表与设置，已在小米 Android 15 和 vivo Android 13 上检查显示"
+    "更新检查和版本公告优先使用 Gitee 国内源，不可用时尝试 GitHub 备用源",
+    "下载前检查可用源，备用安装包必须与所选版本号、版本名和 SHA-256 一致",
+    "更新弹窗显示实际来源，防止连续点击产生重复更新任务",
+    "取消安装或无法打开安装程序后停止尝试，保留安装包安全校验",
+    "覆盖安装保留现有课表与设置，已在 vivo Android 13 上验证国内源和系统下载器",
+    "已知问题：部分旧公告可能排在新公告前，不影响应用更新或课表"
   ]
 }
