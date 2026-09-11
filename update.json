@@ -1,15 +1,14 @@
 {
-  "versionCode": 10,
-  "versionName": "0.4.3",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.3/AHSTUSchedule.apk",
-  "sha256": "5ae897da486adc02855857d21eb6ec8544f9b48170df0f9bc8e2fe5ddb20ea68",
+  "versionCode": 11,
+  "versionName": "0.4.4",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.4/AHSTUSchedule.apk",
+  "sha256": "f520eb7a9263613fab641bc1287a15fd878330b68dc7bbf4a76e7d48f03725e9",
   "publishedAt": "2026-09-11",
   "changelog": [
-    "更新检查和版本公告优先使用 Gitee 国内源，不可用时尝试 GitHub 备用源",
-    "下载前检查可用源，备用安装包必须与所选版本号、版本名和 SHA-256 一致",
-    "更新弹窗显示实际来源，防止连续点击产生重复更新任务",
-    "取消安装或无法打开安装程序后停止尝试，保留安装包安全校验",
-    "覆盖安装保留现有课表与设置，已在 vivo Android 13 上验证国内源和系统下载器",
-    "已知问题：部分旧公告可能排在新公告前，不影响应用更新或课表"
+    "修复公告顺序：按版本从新到旧排列，同版本按日期倒序",
+    "相同公告优先显示线上更新后的内容，内置公告仅补充缺失条目",
+    "统一菜单预览、全部公告和缓存读取的排序结果",
+    "正确比较多位版本号，例如 0.4.10 排在 0.4.9 前面",
+    "覆盖安装保留课表和学期设置，已通过自动测试及 vivo Android 13 真机检查"
   ]
 }
