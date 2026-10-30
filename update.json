@@ -1,14 +1,14 @@
 {
-  "versionCode": 11,
-  "versionName": "0.4.4",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.4/AHSTUSchedule.apk",
-  "sha256": "f520eb7a9263613fab641bc1287a15fd878330b68dc7bbf4a76e7d48f03725e9",
-  "publishedAt": "2026-09-11",
+  "versionCode": 12,
+  "versionName": "0.4.5",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.5/AHSTUSchedule.apk",
+  "sha256": "2b26a3d2dd1ce7be2f4751fe8504485b87c808758f1f47704a7e7f3cd875afa5",
+  "publishedAt": "2026-10-30",
   "changelog": [
-    "修复公告顺序：按版本从新到旧排列，同版本按日期倒序",
-    "相同公告优先显示线上更新后的内容，内置公告仅补充缺失条目",
-    "统一菜单预览、全部公告和缓存读取的排序结果",
-    "正确比较多位版本号，例如 0.4.10 排在 0.4.9 前面",
-    "覆盖安装保留课表和学期设置，已通过自动测试及 vivo Android 13 真机检查"
+    "手机和平板使用同一安装包，按实际窗口宽度调整课表、字号和留白",
+    "平板支持横竖屏与多窗口，旋转保留当前教学周和登录页面",
+    "大屏顶部调整为左侧日期、居中周次、右上角刷新和登录导入",
+    "优化长课程与教室显示，修复选周弹窗在窗口收窄时裁切或崩溃的问题",
+    "覆盖安装保留课表和学期设置，已通过 Android 16 平板真机检查"
   ]
 }
