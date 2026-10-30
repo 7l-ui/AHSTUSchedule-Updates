@@ -16,3 +16,11 @@
 本应用不是学校官方软件。
 
 SHA-256：`2b26a3d2dd1ce7be2f4751fe8504485b87c808758f1f47704a7e7f3cd875afa5`
+
+## 安装包下载
+
+[国内直链下载 AHSTUSchedule.apk](https://gitee.com/q15715506791/AHSTUSchedule-Updates/raw/main/apks/0.4.5/AHSTUSchedule.apk)
+
+[GitHub 备用发行版](https://github.com/7l-ui/AHSTUSchedule-Updates/releases/tag/v0.4.5)
+
+手机与安卓平板共用此安装包。国内安装包由本仓库直链提供；旧版客户端仅识别发行版附件地址，因此应用内 APK 下载本次仍使用 GitHub 发行地址。
