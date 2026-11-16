@@ -4,7 +4,7 @@
 
 最新版：**0.5.0**（2026-11-16），手机与安卓平板共用一个安装包。
 
-- [国内直链下载 APK](https://gitee.com/q15715506791/AHSTUSchedule-Updates/raw/main/apks/0.5.0/AHSTUSchedule.apk)
+- [国内下载 APK](https://gitee.com/q15715506791/AHSTUSchedule-Updates/releases/download/v0.5.0/AHSTUSchedule.apk)
 - [GitHub 发行版与备用下载](https://github.com/7l-ui/AHSTUSchedule-Updates/releases/tag/v0.5.0)
 - [本版更新说明](release-notes-0.5.0.md)
 

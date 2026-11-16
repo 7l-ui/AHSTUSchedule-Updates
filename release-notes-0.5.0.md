@@ -18,7 +18,7 @@
 
 [GitHub 发行版与备用下载](https://github.com/7l-ui/AHSTUSchedule-Updates/releases/tag/v0.5.0)
 
-更新检查和公告继续使用 Gitee 国内源优先、GitHub 备用。旧客户端仅识别发行版附件地址，应用内 APK 下载继续使用 GitHub；Gitee 国内直链用于手动下载。
+更新检查、公告与支持国内源的客户端 APK 下载优先使用 Gitee，失败时尝试 GitHub 同版本备用。较早只支持 GitHub 的客户端继续沿原渠道升级，也可使用国内直链覆盖安装。
 
 被识别成未知文件无法安装时，请在右上角使用可以安装的浏览器或者组件打开。
 
