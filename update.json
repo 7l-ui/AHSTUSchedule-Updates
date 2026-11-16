@@ -1,14 +1,16 @@
 {
-  "versionCode": 12,
-  "versionName": "0.4.5",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.4.5/AHSTUSchedule.apk",
-  "sha256": "2b26a3d2dd1ce7be2f4751fe8504485b87c808758f1f47704a7e7f3cd875afa5",
-  "publishedAt": "2026-10-30",
+  "versionCode": 17,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.5.0/AHSTUSchedule.apk",
+  "sha256": "41c2fd1e0df894e904cdc3ef36bea4e1fa5dff8689c800c1b088fac812f53024",
+  "publishedAt": "2026-11-16",
   "changelog": [
-    "手机和平板使用同一安装包，按实际窗口宽度调整课表、字号和留白",
-    "平板支持横竖屏与多窗口，旋转保留当前教学周和登录页面",
-    "大屏顶部调整为左侧日期、居中周次、右上角刷新和登录导入",
-    "优化长课程与教室显示，修复选周弹窗在窗口收窄时裁切或崩溃的问题",
-    "覆盖安装保留课表和学期设置，已通过 Android 16 平板真机检查"
+    "新增教务图标入口，查看本学期考试、历史成绩和完整培养计划",
+    "考试、成绩与培养计划分别更新，显示各自更新时间，失败保留旧数据",
+    "可选在本机加密保存账号密码，打开官方登录页时自动填写，滑块仍需手动完成",
+    "加快考试查询并显示批次进度，学校提示访问过快时自动放慢并等待重试",
+    "菜单新增分享软件按钮，可通过 QQ、微信等分享当前安装包，不包含本机个人数据",
+    "手机和平板共用一个 APK，覆盖安装保留已有课表和设置",
+    "国内手动下载可使用 Gitee 发行版说明中的直链，应用内 APK 下载继续使用 GitHub 发行地址"
   ]
 }
