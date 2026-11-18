@@ -2,11 +2,11 @@
 
 这里用于发布“安科课表”的 APK、应用内更新信息与版本公告。
 
-最新版：**0.5.0**（2026-11-16），手机与安卓平板共用一个安装包。
+最新版：**0.5.1**（2026-11-18），手机与安卓平板共用一个安装包。
 
-- [国内下载 APK](https://gitee.com/q15715506791/AHSTUSchedule-Updates/releases/download/v0.5.0/AHSTUSchedule.apk)
-- [GitHub 发行版与备用下载](https://github.com/7l-ui/AHSTUSchedule-Updates/releases/tag/v0.5.0)
-- [本版更新说明](release-notes-0.5.0.md)
+- [国内下载 APK](https://gitee.com/q15715506791/AHSTUSchedule-Updates/releases/download/v0.5.1/AHSTUSchedule.apk)
+- [GitHub 发行版与备用下载](https://github.com/7l-ui/AHSTUSchedule-Updates/releases/tag/v0.5.1)
+- [本版更新说明](release-notes-0.5.1.md)
 
 - 应用更新只在用户手动点击“检查应用更新”时联网。
 - 版本公告只在用户打开左上角菜单时低频刷新。

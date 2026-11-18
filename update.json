@@ -1,16 +1,15 @@
 {
-  "versionCode": 17,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.5.0/AHSTUSchedule.apk",
-  "sha256": "41c2fd1e0df894e904cdc3ef36bea4e1fa5dff8689c800c1b088fac812f53024",
-  "publishedAt": "2026-11-16",
+  "versionCode": 27,
+  "versionName": "0.5.1",
+  "apkUrl": "https://github.com/7l-ui/AHSTUSchedule-Updates/releases/download/v0.5.1/AHSTUSchedule.apk",
+  "sha256": "fab6fc7a331c8160c57bd3ce17d1b9c9666abc225c14729cf30f0634ddee7111",
+  "publishedAt": "2026-11-18",
   "changelog": [
-    "新增教务图标入口，查看本学期考试、历史成绩和完整培养计划",
-    "考试、成绩与培养计划分别更新，显示各自更新时间，失败保留旧数据",
-    "可选在本机加密保存账号密码，打开官方登录页时自动填写，滑块仍需手动完成",
-    "加快考试查询并显示批次进度，学校提示访问过快时自动放慢并等待重试",
-    "菜单新增分享软件按钮，可通过 QQ、微信等分享当前安装包，不包含本机个人数据",
-    "手机和平板共用一个 APK，覆盖安装保留已有课表和设置",
-    "新增可用的 Gitee 国内发行版附件下载，保留 GitHub 备用下载"
+    "考试按真实起止时间显示在课表中，点开可看考场、座位和考试更新时间。",
+    "时间待定的考试显示在当天上方。考试和上课时间重叠时，考试详情会列出原课程。",
+    "晚课或晚间考试在屏幕下方露出不足卡片高度的 13% 时，显示一键跳转提示。",
+    "教务页点哪一项就先更新哪一项，随后依次更新其余两项，各自显示结果和更新时间。",
+    "单项读取失败保留原数据，登录失效时可在完成学校认证后继续更新。",
+    "打开登录页可直接登录，需要时点上方的「自动填充」进行设置。"
   ]
 }
